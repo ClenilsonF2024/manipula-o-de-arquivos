@@ -1,4 +1,4 @@
-# manipula-o-de-arquivos
+# manipulando arquivos
 manipulação de arquivos em python
 Captura dados
 Acontece da seguinte maneira:
